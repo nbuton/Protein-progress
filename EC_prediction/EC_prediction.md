@@ -47,6 +47,6 @@ Similarity threshold 50%
 
 ### Result on test set :
 | Model | Mean F1 on lvl0 | Mean F1 on lvl1  | Paper/Source | Date | Code |
-| :------------- | :------------- | :------------- | :-------- | :-----: | :-----: | :-----: |
+| :------------- | :------------- | :-------- | :-----: | :-----: | :-----: |
 | UDSMProt | 0.98 | 0.95 | 0.84 | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | 08/01/2020  | [Official](https://github.com/nstrodt/UDSMProt)
 | ECPred | 0.96 | 0.96 | [ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2368-y) | 21/09/2018 | -- |
