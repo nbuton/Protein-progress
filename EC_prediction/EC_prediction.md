@@ -8,6 +8,12 @@
 ![stats_EC40_EC50_DEEPre_ECPred](stats_EC40_EC50_DEEPre_ECPred.png)
 
 ## Paper to process and extract result
+- [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270)
+- [mlDEEPre: Multi-Functional Enzyme Function Prediction With Hierarchical Multi-Label Deep Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349967/)
+- [ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2368-y)
+- [DEEPre: sequence-based enzyme EC number prediction by deep learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030869/)
+- [HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785)
+- [The Classification of Enzymes by Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9086514)
 
 ## EC40 dataset
 
@@ -38,6 +44,7 @@ The  EC50  and  EC40  EC  classification  datasets  are  constructed according t
 Similarity threshold 40%
 
 ### Result on test set :
+
 | Model | Accuracy on lvl0 | Accuracy on lvl1  | Accuracy on lvl2 | Paper/Source | Date | Code |
 | :------------- | :------------- | :------------- | :-------- | :-----: | :-----: | :-----: |
 | UDSMProt | 0.87 | 0.84 | 0.78 | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | 08/01/2020  | [Official](https://github.com/nstrodt/UDSMProt)
@@ -49,6 +56,7 @@ Similarity threshold 40%
 Similarity threshold 50%
 
 ### Result on test set :
+
 | Model | Mean F1 on lvl0 | Mean F1 on lvl1  | Paper/Source | Date | Code |
 | :------------- | :------------- | :-------- | :-----: | :-----: | :-----: |
 | UDSMProt | 0.98 | 0.95 | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | 08/01/2020  | [Official](https://github.com/nstrodt/UDSMProt)
