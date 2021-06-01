@@ -13,6 +13,7 @@
 - [ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2368-y)
 - [DEEPre: sequence-based enzyme EC number prediction by deep learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6030869/)
 - [HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785)
+- [Bio2Rxn: sequence-based enzymatic reaction predictions by a consensus strategy](https://academic.oup.com/bioinformatics/article/36/11/3600/5766113?searchresult=1)
 - [The Classification of Enzymes by Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9086514)
 
 ## EC40 dataset
