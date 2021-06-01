@@ -24,8 +24,8 @@ The  EC50  and  EC40  EC  classification  datasets  are  constructedaccording to
 
 ### Result on test set :
 
-| Model | Accuracy on lvl0 | Accuracy on lvl1  | Accuracy on lvl2 | Paper/Source | Date |Code   |
-| :------------- | :------------- | :------------- | :-------- | :-----: |
+| Model | Accuracy on lvl0 | Accuracy on lvl1  | Accuracy on lvl2 | Paper/Source | Date | Code |
+| :------------- | :------------- | :------------- | :-------- | :-----: | :-----: | :-----: |
 | UDSMProt | 0.91 | 0.87 | 0.84 | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | 08/01/2020  | [Official](https://github.com/nstrodt/UDSMProt)
 | My ensemble network | -- | -- | 0.95 | -- | -- | -- |
 
