@@ -73,4 +73,4 @@ Similarity threshold 40%
 
 | Model | Acc on lvl0 | F1 on lvl0 | Acc on lvl1 | Macro-F1 on lvl1 | Acc on lvl2 | Macro-F1 on lvl2 | Acc on lvl3 | Macro-F1 on lvl3 | Acc on lvl4 | Macro-F1 on lvl4 | Paper/Source | Date | Code |
 | :------------- | :------------- | :-------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| HECNet | 0.940 | 0.941 | 0.934 | 0.875 | 0.930 | 0.772 | 0.928 | 0.794 | 0.912 | 0.819 | [HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network ](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785?redirectedFrom=fulltext) | 08/01/2020  | --
+| HECNet | 0.940 | 0.941 | 0.934 | 0.875 | 0.930 | 0.772 | 0.928 | 0.794 | 0.912 | 0.819 | [HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network ](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785?redirectedFrom=fulltext) | 01/09/2020  | --
