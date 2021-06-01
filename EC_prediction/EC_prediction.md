@@ -4,6 +4,9 @@
 
 ## Image for multiple datasets
 
+#### Statistics on EC40, EC50,DEEPre, ECPred datasets  
+![stats_EC40_EC50_DEEPre_ECPred](stats_EC40_EC50_DEEPre_ECPred.png)
+
 ## Paper to process and extract result
 
 ## EC40 dataset
