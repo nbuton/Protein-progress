@@ -62,3 +62,15 @@ Similarity threshold 50%
 | :------------- | :------------- | :-------- | :-----: | :-----: | :-----: |
 | UDSMProt | 0.98 | 0.95 | [UDSMProt: universal deep sequence models for protein classification](https://academic.oup.com/bioinformatics/article/36/8/2401/5698270) | 08/01/2020  | [Official](https://github.com/nstrodt/UDSMProt)
 | ECPred | 0.96 | 0.96 | [ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2368-y) | 21/09/2018 | -- |
+
+
+## Dataset 3 of the HECNet paper
+
+### Description of the dataset :
+Similarity threshold 40%
+
+### Result on test set :
+
+| Model | Acc on lvl0 | F1 on lvl0 | Acc on lvl1 | Macro-F1 on lvl1 | Acc on lvl2 | Macro-F1 on lvl2 | Acc on lvl3 | Macro-F1 on lvl3 | Acc on lvl4 | Macro-F1 on lvl4 | Paper/Source | Date | Code |
+| :------------- | :------------- | :-------- | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| HECNet | 0.940 | 0.941 | 0.934 | 0.875 | 0.930 | 0.772 | 0.928 | 0.794 | 0.912 | 0.819 | [HECNet: a hierarchical approach to enzyme function classification using a Siamese Triplet Network ](https://academic.oup.com/bioinformatics/article-abstract/36/17/4583/5843785?redirectedFrom=fulltext) | 08/01/2020  | --
