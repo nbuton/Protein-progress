@@ -1,4 +1,4 @@
-# Tracking Progress in Natural Language Processing
+# Tracking Progress in Protein Language Processing
 
 ## Table of contents
 
